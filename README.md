@@ -1,4 +1,4 @@
-# Honeypot
+# Honeypot or honeytrap
 
 ## What is Honeypot.
 
